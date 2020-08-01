@@ -1,0 +1,9 @@
+[submodule "cpp/lib/SDL2"]
+	path = cpp/lib/SDL2
+	url = git@github.com:davidsiaw/SDL2.git
+[submodule "cpp/lib/glfw"]
+	path = cpp/lib/glfw
+	url = git@github.com:glfw/glfw.git
+[submodule "cpp/lib/glad"]
+	path = cpp/lib/glad
+	url = git@github.com:Dav1dde/glad.git

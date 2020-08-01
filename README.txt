@@ -1,1 +1,4 @@
-This project was part of a University of New South Wales course on computer graphics I completed in 2016s2. In order for it to work the latest JOGL jars need to be downloaded and extracted into a directory named "jogl" and linked with javac/java.
+This project was part of a University of New South Wales course on computer graphics I completed in 2016s2.
+
+Java used in the original version.
+C++ used in the redux. version.
