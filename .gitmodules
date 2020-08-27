@@ -1,3 +1,6 @@
 [submodule "cpp"]
 	path = cpp
 	url = git@github.com:SBreezyx/3DWorld-cpp.git
+[submodule "java"]
+	path = java
+	url = git@github.com:SBreezyx/3DWorld-java.git
